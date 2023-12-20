@@ -1,0 +1,8 @@
+.Heading{
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(88, 162, 223);
+}

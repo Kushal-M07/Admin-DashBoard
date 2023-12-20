@@ -1,0 +1,49 @@
+{
+  "employeeList": [
+    {
+      "id": "026",
+      "first_name": "Mohit",
+      "Desig": "SDE"
+    },
+    {
+      "id": "028",
+      "first_name": "Alem",
+      "Desig": "SD"
+    },
+    {
+      "id": "123",
+      "first_name": "Cloudy",
+      "Desig": "ASS"
+    },
+    {
+      "id": "422",
+      "first_name": "Mick",
+      "Desig": "FE"
+    },
+    {
+      "id": "021",
+      "first_name": "JKL",
+      "Desig": "CA"
+    },
+    {
+      "id": "009",
+      "first_name": "arthur",
+      "Desig": "BE"
+    },
+    {
+      "id": "007",
+      "first_name": "Kushal",
+      "Desig": "SDE"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

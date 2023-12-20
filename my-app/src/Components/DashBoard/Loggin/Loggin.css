@@ -1,0 +1,11 @@
+
+/* Styles for Loggin */
+.loggin_card{
+    margin: 20px;   
+}
+.accnt{
+    display: flex;
+    cursor: pointer;
+    color: blue;
+    margin-left: 5px;
+}
